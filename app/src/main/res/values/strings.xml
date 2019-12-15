@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="hint_notepadTitle">Note Title</string>
+    <string name="hint_notepadDescription">Description</string>
+    <string name="button_addNotepad">Add Note</string>
+    <string name="menu_addNotepad">Add</string>
+    <string name="menu_cancelNotepad">Cancel</string>
+    <string name="enter_notepad_title"> Please enter a Note Title</string>
+    <string name="save_notepad"> Save Note </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_notepad_image">Select note image</string>
+    <string name="change_notepad_image">Change note image</string>
+</resources>
